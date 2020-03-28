@@ -1,0 +1,2 @@
+module MdsHelper
+end
